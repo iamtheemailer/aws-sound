@@ -1,0 +1,26 @@
+body {
+    padding: 15%;
+}
+
+label {
+    padding: 10px;
+}
+
+.audio {
+    padding: 10px;
+}
+
+.mic {
+    padding: 10px;
+}
+
+.camera {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(120, 120, 177);
+    color: black;
+    border-radius: 10px;
+}
